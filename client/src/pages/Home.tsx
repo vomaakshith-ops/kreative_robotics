@@ -42,9 +42,9 @@ export default function Home() {
                 Join the next generation of innovators. Hands-on project based learning in Robotics, IoT, and Artificial Intelligence designed for all ages.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
-                <Link href="/courses">
+                <Link href="/programs">
                   <button className="w-full sm:w-auto px-8 py-4 rounded-xl bg-primary text-primary-foreground font-bold text-lg hover:bg-primary/90 transition-all hover:shadow-[0_0_30px_-10px_hsl(var(--primary)/0.6)] hover:-translate-y-1">
-                    Explore Courses
+                    Explore Programs
                   </button>
                 </Link>
                 <Link href="/contact">
@@ -127,12 +127,12 @@ export default function Home() {
         <div className="container mx-auto px-4 md:px-6">
           <div className="flex flex-col md:flex-row items-end justify-between mb-12 gap-4">
             <div>
-              <h2 className="text-3xl md:text-4xl font-bold mb-4">Popular <span className="text-primary">Courses</span></h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-4">Our <span className="text-primary">Programs</span></h2>
               <p className="text-muted-foreground max-w-lg">Industry-relevant curriculum designed by experts to take you from beginner to pro.</p>
             </div>
-            <Link href="/courses">
+            <Link href="/programs">
               <button className="flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all">
-                View All Courses <ArrowRight className="w-4 h-4" />
+                View All Programs <ArrowRight className="w-4 h-4" />
               </button>
             </Link>
           </div>

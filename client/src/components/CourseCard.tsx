@@ -47,7 +47,7 @@ export function CourseCard({ course, index = 0 }: { course: Course; index?: numb
 
         <div className="flex items-center justify-between mt-auto pt-4 border-t border-border/50">
           <span className="text-lg font-bold text-foreground">{course.price}</span>
-          <Link href={`/courses/${course.id}`}>
+          <Link href={`/programs/${course.id}`}>
             <button className="flex items-center gap-2 text-primary font-semibold text-sm hover:translate-x-1 transition-transform">
               Details <ArrowRight className="w-4 h-4" />
             </button>

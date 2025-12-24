@@ -1,0 +1,100 @@
+Here’s a **ready-to-use master prompt** you can copy-paste into **another AI agent / website builder AI** (like Cursor, Bolt, Lovable, Webflow AI, etc.) to create a website similar to **obotz.com** 👇
+
+---
+
+## 🔥 WEBSITE CREATION PROMPT (Obotz-style)
+
+**Prompt:**
+
+> You are a senior UI/UX designer and full-stack web developer.
+>
+> Create a modern, premium, tech-startup website inspired by **obotz.com**.
+>
+> ### Website Goal
+>
+> Build a clean, futuristic, conversion-focused website for a **Robotics / AI / EdTech company** that offers robotics training, automation solutions, and technology education.
+>
+> ### Design Style
+>
+> * Modern, minimal, premium look
+> * Dark + light theme friendly
+> * Smooth animations and micro-interactions
+> * Floating elements and 3D-style illustrations
+> * Rounded cards, glassmorphism effects
+> * Professional startup branding
+>
+> ### Layout & Sections
+>
+> 1. **Hero Section**
+>
+>    * Left: Bold headline (Robotics / AI / IoT learning focus)
+>    * Subtext describing practical, project-based learning
+>    * CTA buttons: *Enroll Now*, *Explore Courses*
+>    * Right: Floating robot / tech illustrations (NOT sliders)
+>    * Subtle background gradients or animated shapes
+> 2. **About / What We Do**
+>
+>    * Short intro about robotics, AI, automation training
+>    * Icons or illustrations
+> 3. **Courses / Services**
+>
+>    * Robotics
+>    * Arduino & IoT
+>    * AI & Automation
+>    * STEM for Kids
+>    * Use cards with hover animations
+> 4. **Why Choose Us**
+>
+>    * Industry-oriented curriculum
+>    * Hands-on projects
+>    * Mentors & trainers
+>    * Career support
+> 5. **Projects / Showcase**
+>
+>    * Robotics projects
+>    * AI demos
+>    * Student work
+> 6. **Testimonials**
+>
+>    * Clean cards with student/partner feedback
+> 7. **Call To Action**
+>
+>    * “Start Your Robotics Journey Today”
+> 8. **Footer**
+>
+>    * Logo
+>    * Quick links
+>    * Contact details
+>    * Social media icons
+>
+> ### Animations & Effects
+>
+> * Smooth scroll animations
+> * Floating images in hero section
+> * Fade-in and slide-up sections
+> * Button hover effects
+>
+> ### Tech Stack (if coding)
+>
+> * Frontend: HTML, Tailwind CSS / CSS3, JavaScript
+> * Optional: React + Framer Motion
+> * Fully responsive (mobile, tablet, desktop)
+>
+> ### Performance & SEO
+>
+> * Fast loading
+> * Clean semantic HTML
+> * SEO-friendly headings
+>
+> Deliver a **production-ready website** with clean code, reusable components, and a professional startup feel similar to obotz.com but NOT copied.
+
+---
+
+If you want, I can also:
+
+* 🔹 Convert this into a **React prompt**
+* 🔹 Make a **Webflow-specific prompt**
+* 🔹 Write a **Tailwind + HTML starter code**
+* 🔹 Customize it exactly for **your robotics institute**
+
+Just tell me 👍
